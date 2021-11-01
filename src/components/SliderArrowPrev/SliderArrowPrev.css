@@ -1,0 +1,20 @@
+.SliderArrowPrev {
+  width: 68px;
+  height: 68px;
+  border-radius: 50%;
+  background: white;
+  display: flex;
+  border: 2px solid #f8f8f8;
+  box-shadow: 0px 4px 17px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  position: absolute;
+  top: 155px;
+  left: -34px;
+  z-index: 1;
+}
+
+.SliderArrowPrev__Image {
+  margin: auto;
+  width: 20px;
+  height: auto;
+}

@@ -1,0 +1,12 @@
+.HomePage {
+  padding: 20px;
+  max-width: 1560px;
+  margin: auto;
+}
+
+.HomePage__Title {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 54px;
+  margin-bottom: 16px;
+}

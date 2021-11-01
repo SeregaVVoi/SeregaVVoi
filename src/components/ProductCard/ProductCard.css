@@ -1,0 +1,31 @@
+.ProductCard {
+  width: 350px;
+  height: 454px;
+  border: 3px solid #f2f2f2;
+  margin-bottom: 40px;
+}
+
+.ProductCard__Image {
+  width: 100%;
+  height: 352px;
+  object-fit: cover;
+}
+
+.ProductCard__Texts {
+  margin-top: 10px;
+  padding: 0 28px;
+}
+
+.ProductCard__Tag {
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 20px;
+  text-transform: uppercase;
+}
+
+.ProductCard__Name {
+  margin-top: 8px;
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 28px;
+}

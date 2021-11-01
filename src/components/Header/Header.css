@@ -1,0 +1,21 @@
+.Header {
+  height: 78px;
+  padding: 0 20px;
+  background: #022b32;
+  display: flex;
+  align-items: center;
+  flex: 0 0 auto;
+}
+
+.Header__Logo {
+  width: 110px;
+  margin-right: 55px;
+}
+
+.Header__Link {
+  margin-right: 55px;
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 16px;
+}
